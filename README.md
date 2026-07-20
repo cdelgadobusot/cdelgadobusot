@@ -13,7 +13,7 @@
 - 💻 Trabajo con **Laravel/PHP**, **Kotlin/Android** y **Python** para datos y machine learning.
 - 🌱 Actualmente profundizo en **ciencia de datos, machine learning e IA aplicada (RAG)**.
 - 📊 Me interesan los proyectos con impacto real: datos económicos, gestión académica y temas ambientales.
-- 📫 Contáctame: **[tu correo aquí]** · **[tu LinkedIn aquí]**
+- 📫 Contáctame: **cdelgado@arcitep.com** · **Carlos Delgado-Busot**
 
 ---
 
