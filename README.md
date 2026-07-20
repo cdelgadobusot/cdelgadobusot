@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/cdelgadobusot.png" width="160" alt="Carlos Delgado" />
+</p>
+
 <h1 align="center">¡Hola! Soy Carlos Delgado 👋</h1>
 
 <p align="center">
