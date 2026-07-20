@@ -80,17 +80,3 @@
 
 - **[App Android Adaptativa](https://github.com/cdelgadobusot/AppAndroidAdaptativa)** — Aplicación que **adapta su interfaz** al tipo de dispositivo. <br>`Kotlin` · `Jetpack Compose`
 
----
-
-### 📈 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cdelgadobusot&show_icons=true&count_private=true&hide_border=true" alt="Estadísticas de GitHub de Carlos" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdelgadobusot&layout=compact&hide_border=true" alt="Lenguajes más usados" height="165">
-</p>
-
----
-
-<p align="center">
-  <i>Abierto a prácticas profesionales y proyectos colaborativos. 🚀</i>
-</p>
